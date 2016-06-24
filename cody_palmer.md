@@ -1,5 +1,5 @@
 # Cody Palmer
-Denver, CO 80222 - cody.palmer08@gmail.com
+Denver, CO 80222 - cody.palmer08@gmail.com - [Github](https://github.com/cdpalmer)
 
 ---
 
