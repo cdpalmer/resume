@@ -22,9 +22,6 @@ To lead teams solving challenging problems while bridging the gap between busine
 
 ---
 
-###### Iowa State University, Ames, Iowa
-Certificate of Information Assurance, Anticipated 2016
-
 ###### CISSP certification - July 2015
 Certification number: #410327
 
